@@ -1,0 +1,7 @@
+{
+  "name": "SwiftShare WiFi",
+  "description": "Fast, secure file sharing between devices using QR codes and real-time signaling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
